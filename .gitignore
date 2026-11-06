@@ -36,6 +36,7 @@ local.properties
 .kotlin/
 
 # node.js
+temp_auto_push.bat
 #
 node_modules/
 npm-debug.log
@@ -74,4 +75,4 @@ yarn-error.log
 !.yarn/sdks
 !.yarn/versions
 .gitignore
-config.bat
+branch_structure.json

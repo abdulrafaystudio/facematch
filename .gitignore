@@ -35,8 +35,8 @@ local.properties
 !debug.keystore
 .kotlin/
 
-temp_auto_push.bat
 # node.js
+temp_auto_push.bat
 #
 node_modules/
 npm-debug.log
